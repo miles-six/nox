@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["errors","manager","types"],"struct":["CUID","CoreRange","LogicalCoreId","PhysicalCoreId"]};

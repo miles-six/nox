@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CoreManager"],"struct":["DummyCoreManager","PersistenceTask","PersistentCoreManager"],"trait":["CoreManagerFunctions"]};
